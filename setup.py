@@ -10,7 +10,7 @@ setup(
         'opencv-python==4.8.1.78',
         'imutils==0.5.4',
         'ultralytics==8.0.145',
-        'tensorflow==2.14.0'
+        'tensorflow==2.16.1'
     ],
     author='Sergio Sánchez Sánchez',
     author_email='dreamsoftware92@gmail.com',
